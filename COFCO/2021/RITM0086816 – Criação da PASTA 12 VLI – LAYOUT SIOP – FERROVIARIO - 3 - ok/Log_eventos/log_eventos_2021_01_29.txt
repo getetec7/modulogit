@@ -1,0 +1,52 @@
+Modulo;Data;Funcao;Status;Descricao
+VBA;29/01/2021 14:51:17;15-VLIEMB.Transbordo;Processando;Inicia 15-VLIEMB.Transbordo
+VBA;29/01/2021 14:51:17;Move_Pendentes;Processando;Iniciando Processamento de Arquivos
+VBA;29/01/2021 14:51:17;Move_Pendentes;Processando;Movendo Arquivos para a pasta Pendentes
+VBA;29/01/2021 14:51:17;Move_Pendentes;Processando;Movendo Arquivo Embarque_Expedicao_Ferroviaria 20210125173018.xlsx
+VBA;29/01/2021 14:51:17;Move_Pendentes;Processando;Movendo Arquivo INFORMAÇÕES VLI TIUB - FERROVIARIO.docx
+VBA;29/01/2021 14:51:17;Move_Pendentes;Falha;424 - O objeto é obrigatório
+VBA;29/01/2021 14:51:17;Move_Pendentes;Falha;70 - Permissão negada
+VBA;29/01/2021 14:51:17;15-VLIEMB.Transbordo;Processando;Inicia Tratativa de Arquivo
+VBA;29/01/2021 14:51:18;15-VLIEMB.Transbordo;Processando;Inicia Copiar
+VBA;29/01/2021 14:51:18;15-VLIEMB.Transbordo;Sucesso;Terminou Copiar
+VBA;29/01/2021 14:51:18;15-VLIEMB.Transbordo;Processando;Gravar Arquivos
+VBA;29/01/2021 14:51:19;15-VLIEMB.Transbordo;Sucesso;Terminou de Gravar Arquivos
+VBA;29/01/2021 14:51:19;15-VLIEMB.Transbordo;Processando;Movendo de Pendentes para Processados
+VBA;29/01/2021 14:51:19;15-VLIEMB.Transbordo;Sucesso;Movido de Pendentes para Processados
+VBA;29/01/2021 14:51:19;15-VLIEMB.Transbordo;Sucesso;Termina Tratativas do arquivo
+VBA;29/01/2021 14:51:19;15-VLIEMB.Transbordo;Sucesso;Termina 15-VLIEMB.Transbordo
+VBA;29/01/2021 15:51:35;15-VLIEMB.Transbordo;Processando;Inicia 15-VLIEMB.Transbordo
+VBA;29/01/2021 15:51:35;Move_Pendentes;Processando;Iniciando Processamento de Arquivos
+VBA;29/01/2021 15:51:35;Move_Pendentes;Processando;Movendo Arquivos para a pasta Pendentes
+VBA;29/01/2021 15:51:35;Move_Pendentes;Processando;Movendo Arquivo Embarque_Expedicao_Ferroviaria 20210125173018.xlsx
+VBA;29/01/2021 15:51:35;Move_Pendentes;Processando;Movendo Arquivo INFORMAÇÕES VLI TIUB - FERROVIARIO.docx
+VBA;29/01/2021 15:51:35;Move_Pendentes;Falha;424 - O objeto é obrigatório
+VBA;29/01/2021 15:51:35;Move_Pendentes;Falha;70 - Permissão negada
+VBA;29/01/2021 15:51:35;15-VLIEMB.Transbordo;Processando;Inicia Tratativa de Arquivo
+VBA;29/01/2021 15:51:36;15-VLIEMB.Transbordo;Processando;Inicia Copiar
+VBA;29/01/2021 15:52:11;15-VLIEMB.Transbordo;Falha;438 - O objeto não aceita esta propriedade ou método
+VBA;29/01/2021 15:52:45;15-VLIEMB.Transbordo;Processando;Inicia 15-VLIEMB.Transbordo
+VBA;29/01/2021 15:52:45;Move_Pendentes;Processando;Iniciando Processamento de Arquivos
+VBA;29/01/2021 15:52:45;Move_Pendentes;Processando;Movendo Arquivos para a pasta Pendentes
+VBA;29/01/2021 15:52:45;Move_Pendentes;Processando;Movendo Arquivo Embarque_Expedicao_Ferroviaria 20210125173018.xlsx
+VBA;29/01/2021 15:52:45;Move_Pendentes;Processando;Movendo Arquivo INFORMAÇÕES VLI TIUB - FERROVIARIO.docx
+VBA;29/01/2021 15:52:45;Move_Pendentes;Falha;424 - O objeto é obrigatório
+VBA;29/01/2021 15:52:45;Move_Pendentes;Falha;70 - Permissão negada
+VBA;29/01/2021 15:52:45;15-VLIEMB.Transbordo;Processando;Inicia Tratativa de Arquivo
+VBA;29/01/2021 15:52:46;15-VLIEMB.Transbordo;Processando;Inicia Copiar
+VBA;29/01/2021 15:54:28;15-VLIEMB.Transbordo;Processando;Inicia 15-VLIEMB.Transbordo
+VBA;29/01/2021 15:54:28;Move_Pendentes;Processando;Iniciando Processamento de Arquivos
+VBA;29/01/2021 15:54:28;Move_Pendentes;Processando;Movendo Arquivos para a pasta Pendentes
+VBA;29/01/2021 15:54:28;Move_Pendentes;Processando;Movendo Arquivo Embarque_Expedicao_Ferroviaria 20210125173018.xlsx
+VBA;29/01/2021 15:54:28;Move_Pendentes;Processando;Movendo Arquivo INFORMAÇÕES VLI TIUB - FERROVIARIO.docx
+VBA;29/01/2021 15:54:28;Move_Pendentes;Falha;424 - O objeto é obrigatório
+VBA;29/01/2021 15:54:28;Move_Pendentes;Falha;70 - Permissão negada
+VBA;29/01/2021 15:54:28;15-VLIEMB.Transbordo;Processando;Inicia Tratativa de Arquivo
+VBA;29/01/2021 15:54:29;15-VLIEMB.Transbordo;Processando;Inicia Copiar
+VBA;29/01/2021 15:55:02;15-VLIEMB.Transbordo;Sucesso;Terminou Copiar
+VBA;29/01/2021 15:55:02;15-VLIEMB.Transbordo;Processando;Gravar Arquivos
+VBA;29/01/2021 15:55:03;15-VLIEMB.Transbordo;Sucesso;Terminou de Gravar Arquivos
+VBA;29/01/2021 15:55:03;15-VLIEMB.Transbordo;Processando;Movendo de Pendentes para Processados
+VBA;29/01/2021 15:55:03;15-VLIEMB.Transbordo;Sucesso;Movido de Pendentes para Processados
+VBA;29/01/2021 15:55:03;15-VLIEMB.Transbordo;Sucesso;Termina Tratativas do arquivo
+VBA;29/01/2021 15:55:03;15-VLIEMB.Transbordo;Sucesso;Termina 15-VLIEMB.Transbordo

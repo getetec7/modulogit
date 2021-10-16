@@ -1,0 +1,15 @@
+Modulo;Data;Funcao;Status;Descricao
+VBA;01/02/2021 15:43:20;11VLI-DES.TRANSBORDO;Processando;INICIANDO PROCESSAMENTO GERAL
+VBA;01/02/2021 15:43:20;Move_Pendentes;Processando;Iniciando Processamento de Arquivos
+VBA;01/02/2021 15:43:20;Move_Pendentes;Processando;Movendo Arquivos para a pasta Pendentes
+VBA;01/02/2021 15:43:20;Move_Pendentes;Processando;Movendo Arquivo DescargaRodoviaria28012021140722 - PIRAPORA (1).xlsx
+VBA;01/02/2021 15:43:20;Move_Pendentes;Processando;Movendo Arquivo INFORMAÇÕES VLI TIPI - RODOVIARIO.docx
+VBA;01/02/2021 15:43:20;Move_Pendentes;Falha;424 - O objeto é obrigatório
+VBA;01/02/2021 15:43:20;Move_Pendentes;Falha;70 - Permissão negada
+VBA;01/02/2021 15:43:20;Move_Pendentes;Processando;Movendo Arquivo OLD.zip
+VBA;01/02/2021 15:43:20;Move_Pendentes;Falha;424 - O objeto é obrigatório
+VBA;01/02/2021 15:44:25;11VLI-DES.TRANSBORDO;Processando;INICIANDO FUNÇÃO COPIAR
+VBA;01/02/2021 15:45:22;11VLI-DES.TRANSBORDO;Sucesso;FINALIZANDO FUNÇÃO COPIAR
+VBA;01/02/2021 15:45:24;11VLI-DES.TRANSBORDO;Processando;INICIANDO FUNÇÃO GRAVAR
+VBA;01/02/2021 15:45:28;11VLI-DES.TRANSBORDO;Sucesso;FINALIZANDO FUNÇÃO GRAVAR
+VBA;01/02/2021 15:45:28;11VLI-DES.TRANSBORDO;Sucesso;MOVENDO ARQUIVOS PARA A PASTA PENDENTES

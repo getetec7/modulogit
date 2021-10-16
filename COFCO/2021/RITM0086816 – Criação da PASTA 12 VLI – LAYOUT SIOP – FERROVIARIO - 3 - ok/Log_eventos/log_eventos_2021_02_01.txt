@@ -1,0 +1,9 @@
+Modulo;Data;Funcao;Status;Descricao
+VBA;01/02/2021 09:05:37;15-VLIEMB.Transbordo;Processando;Inicia 15-VLIEMB.Transbordo
+VBA;01/02/2021 09:05:37;Move_Pendentes;Processando;Iniciando Processamento de Arquivos
+VBA;01/02/2021 09:05:37;Move_Pendentes;Processando;Movendo Arquivos para a pasta Pendentes
+VBA;01/02/2021 09:05:37;Move_Pendentes;Processando;Movendo Arquivo Embarque_Expedicao_Ferroviaria 20210125173018.xlsx
+VBA;01/02/2021 09:05:37;Move_Pendentes;Processando;Movendo Arquivo INFORMAÇÕES VLI TIUB - FERROVIARIO.docx
+VBA;01/02/2021 09:05:37;Move_Pendentes;Falha;424 - O objeto é obrigatório
+VBA;01/02/2021 09:05:37;15-VLIEMB.Transbordo;Processando;Inicia Tratativa de Arquivo
+VBA;01/02/2021 09:05:40;15-VLIEMB.Transbordo;Processando;Inicia Copiar

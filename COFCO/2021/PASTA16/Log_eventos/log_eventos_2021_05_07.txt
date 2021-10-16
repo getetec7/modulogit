@@ -1,0 +1,9 @@
+Modulo;Data;Funcao;Status;Descricao
+VBA;07/05/2021 16:04:30;11VLI-DES.TRANSBORDO;Processando;INICIANDO PROCESSAMENTO GERAL
+VBA;07/05/2021 16:04:30;Move_Pendentes;Processando;Iniciando Processamento de Arquivos
+VBA;07/05/2021 16:04:30;Move_Pendentes;Processando;Movendo Arquivos para a pasta Pendentes
+VBA;07/05/2021 16:04:30;Move_Pendentes;Processando;Movendo Arquivo PASTA 16 - NOVO.xlsx
+VBA;07/05/2021 16:08:23;11VLI-DES.TRANSBORDO;Processando;INICIANDO PROCESSAMENTO GERAL
+VBA;07/05/2021 16:08:23;Move_Pendentes;Processando;Iniciando Processamento de Arquivos
+VBA;07/05/2021 16:08:23;Move_Pendentes;Processando;Movendo Arquivos para a pasta Pendentes
+VBA;07/05/2021 16:08:23;Move_Pendentes;Processando;Movendo Arquivo PASTA 16 - NOVO.xlsx

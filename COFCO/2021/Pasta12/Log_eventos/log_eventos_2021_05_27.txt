@@ -1,0 +1,18 @@
+Modulo;Data;Funcao;Status;Descricao
+VBA;27/05/2021 10:01:25;15-VLIEMB.Transbordo;Processando;Inicia 15-VLIEMB.Transbordo
+VBA;27/05/2021 10:01:25;Move_Pendentes;Processando;Iniciando Processamento de Arquivos
+VBA;27/05/2021 10:01:25;Move_Pendentes;Processando;Movendo Arquivos para a pasta Pendentes
+VBA;27/05/2021 10:01:25;Move_Pendentes;Processando;Movendo Arquivo EMBARQUE FERRO VLI (1).xlsx
+VBA;27/05/2021 10:01:25;15-VLIEMB.Transbordo;Processando;Inicia Tratativa de Arquivo
+VBA;27/05/2021 10:01:26;15-VLIEMB.Transbordo;Processando;Inicia Copiar
+VBA;27/05/2021 10:01:26;15-VLIEMB.Transbordo;Sucesso;Terminou Copiar
+VBA;27/05/2021 10:01:26;15-VLIEMB.Transbordo;Processando;Gravar Arquivos
+VBA;27/05/2021 10:01:27;15-VLIEMB.Transbordo;Sucesso;Terminou de Gravar Arquivos
+VBA;27/05/2021 10:01:27;15-VLIEMB.Transbordo;Processando;Inicia Copiar
+VBA;27/05/2021 10:01:27;15-VLIEMB.Transbordo;Sucesso;Terminou Copiar
+VBA;27/05/2021 10:01:27;15-VLIEMB.Transbordo;Processando;Gravar Arquivos
+VBA;27/05/2021 10:01:29;15-VLIEMB.Transbordo;Sucesso;Terminou de Gravar Arquivos
+VBA;27/05/2021 10:01:29;15-VLIEMB.Transbordo;Processando;Movendo de Pendentes para Processados
+VBA;27/05/2021 10:01:29;15-VLIEMB.Transbordo;Sucesso;Movido de Pendentes para Processados
+VBA;27/05/2021 10:01:29;15-VLIEMB.Transbordo;Sucesso;Termina Tratativas do arquivo
+VBA;27/05/2021 10:01:29;15-VLIEMB.Transbordo;Sucesso;Termina 15-VLIEMB.Transbordo

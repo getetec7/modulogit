@@ -1,0 +1,7 @@
+Modulo;Data;Funcao;Status;Descricao
+VBA;31/05/2021 11:12:51;15-VLIEMB.Transbordo;Processando;Inicia 15-VLIEMB.Transbordo
+VBA;31/05/2021 11:12:51;Move_Pendentes;Processando;Iniciando Processamento de Arquivos
+VBA;31/05/2021 11:12:51;Move_Pendentes;Processando;Movendo Arquivos para a pasta Pendentes
+VBA;31/05/2021 11:12:51;Move_Pendentes;Processando;Movendo Arquivo EMBARQUE FERRO VLI.xlsx
+VBA;31/05/2021 11:12:51;15-VLIEMB.Transbordo;Processando;Inicia Tratativa de Arquivo
+VBA;31/05/2021 11:12:52;15-VLIEMB.Transbordo;Processando;Inicia Copiar

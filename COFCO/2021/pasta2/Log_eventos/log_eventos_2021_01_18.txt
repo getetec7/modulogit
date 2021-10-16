@@ -1,0 +1,84 @@
+Modulo;Data;Funcao;Status;Descricao
+VBA;18/01/2021 09:33:12;PROCESSA_ARQUIVOS;Processando;INICIANDO PROCESSAMENTO DE INFORMAÇÕES
+VBA;18/01/2021 09:33:12;Move_Pendentes;Processando;Iniciando Processamento de Arquivos
+VBA;18/01/2021 09:33:12;Move_Pendentes;Processando;Movendo Arquivos para a pasta Pendentes
+VBA;18/01/2021 09:33:12;Move_Pendentes;Processando;Movendo Arquivo PASTA 2 - 18-01.xlsx
+VBA;18/01/2021 09:33:19;Processa_ARquivos;Processando;Processando arquivo [C:\PROJETOS\GOBI\COFCO\2021\pasta2\Pendentes\PASTA 2 - 18-01.xlsx]
+VBA;18/01/2021 09:33:22;IMPORTA_DADOS;Processando;INICIANDO IMPORTAÇÃO DE INFORMAÇÕES
+VBA;18/01/2021 09:38:58;FILTRA_CNPJ;Processando;INICIANDO FILTRO DE INFORMAÇÕES
+VBA;18/01/2021 09:39:33;FILTRA_CNPJ;Sucesso;FINALIZANDO FILTRO DE INFORMAÇÕES
+VBA;18/01/2021 09:40:25;FILTRA_CNPJ;Processando;INICIANDO FILTRO DE INFORMAÇÕES
+VBA;18/01/2021 09:42:32;AUTOMAÇÃO RUMO;Processando;INICIANDO PROCESSAMENTO GERAL
+VBA;18/01/2021 09:42:32;PROCESSA_ARQUIVOS;Processando;INICIANDO PROCESSAMENTO DE INFORMAÇÕES
+VBA;18/01/2021 09:42:32;Move_Pendentes;Processando;Iniciando Processamento de Arquivos
+VBA;18/01/2021 09:42:32;Move_Pendentes;Processando;Movendo Arquivos para a pasta Pendentes
+VBA;18/01/2021 09:42:32;Move_Pendentes;Falha;5 - Argumento ou chamada de procedimento inválida
+VBA;18/01/2021 09:42:32;Move_Pendentes;Falha;13 - Tipos incompatíveis
+VBA;18/01/2021 09:42:32;Move_Pendentes;Falha;424 - O objeto é obrigatório
+VBA;18/01/2021 09:42:32;Move_Pendentes;Falha;424 - O objeto é obrigatório
+VBA;18/01/2021 09:42:32;Move_Pendentes;Falha;424 - O objeto é obrigatório
+VBA;18/01/2021 09:42:32;Move_Pendentes;Falha;424 - O objeto é obrigatório
+VBA;18/01/2021 09:42:32;Move_Pendentes;Falha;424 - O objeto é obrigatório
+VBA;18/01/2021 09:42:32;Move_Pendentes;Falha;424 - O objeto é obrigatório
+VBA;18/01/2021 09:42:32;Move_Pendentes;Falha;424 - O objeto é obrigatório
+VBA;18/01/2021 09:42:32;Move_Pendentes;Falha;92 - Loop ´For´ não inicializado
+VBA;18/01/2021 09:42:35;AUTOMAÇÃO RUMO;Sucesso;FINALIZANDO PROCESSAMENTO GERAL
+VBA;18/01/2021 09:43:38;PROCESSA_ARQUIVOS;Processando;INICIANDO PROCESSAMENTO DE INFORMAÇÕES
+VBA;18/01/2021 09:43:38;Move_Pendentes;Processando;Iniciando Processamento de Arquivos
+VBA;18/01/2021 09:43:38;Move_Pendentes;Processando;Movendo Arquivos para a pasta Pendentes
+VBA;18/01/2021 09:43:38;Move_Pendentes;Falha;5 - Argumento ou chamada de procedimento inválida
+VBA;18/01/2021 09:43:38;Move_Pendentes;Falha;13 - Tipos incompatíveis
+VBA;18/01/2021 09:43:38;Move_Pendentes;Falha;424 - O objeto é obrigatório
+VBA;18/01/2021 09:43:38;Move_Pendentes;Falha;424 - O objeto é obrigatório
+VBA;18/01/2021 09:43:38;Move_Pendentes;Falha;424 - O objeto é obrigatório
+VBA;18/01/2021 09:43:38;Move_Pendentes;Falha;424 - O objeto é obrigatório
+VBA;18/01/2021 09:43:38;Move_Pendentes;Falha;424 - O objeto é obrigatório
+VBA;18/01/2021 09:43:39;Move_Pendentes;Falha;424 - O objeto é obrigatório
+VBA;18/01/2021 09:43:39;Move_Pendentes;Falha;424 - O objeto é obrigatório
+VBA;18/01/2021 09:43:39;Move_Pendentes;Falha;92 - Loop ´For´ não inicializado
+VBA;18/01/2021 09:43:50;PROCESSA_ARQUIVOS;Processando;INICIANDO PROCESSAMENTO DE INFORMAÇÕES
+VBA;18/01/2021 09:43:52;Move_Pendentes;Processando;Iniciando Processamento de Arquivos
+VBA;18/01/2021 09:43:53;Move_Pendentes;Processando;Movendo Arquivos para a pasta Pendentes
+VBA;18/01/2021 09:43:53;Move_Pendentes;Falha;5 - Argumento ou chamada de procedimento inválida
+VBA;18/01/2021 09:43:53;Move_Pendentes;Falha;13 - Tipos incompatíveis
+VBA;18/01/2021 09:43:53;Move_Pendentes;Falha;424 - O objeto é obrigatório
+VBA;18/01/2021 09:43:53;Move_Pendentes;Falha;424 - O objeto é obrigatório
+VBA;18/01/2021 09:43:53;Move_Pendentes;Falha;424 - O objeto é obrigatório
+VBA;18/01/2021 09:43:53;Move_Pendentes;Falha;424 - O objeto é obrigatório
+VBA;18/01/2021 09:43:53;Move_Pendentes;Falha;424 - O objeto é obrigatório
+VBA;18/01/2021 09:43:53;Move_Pendentes;Falha;424 - O objeto é obrigatório
+VBA;18/01/2021 09:43:53;Move_Pendentes;Falha;424 - O objeto é obrigatório
+VBA;18/01/2021 09:43:53;Move_Pendentes;Falha;92 - Loop ´For´ não inicializado
+VBA;18/01/2021 09:43:57;PROCESSA_ARQUIVOS;Processando;INICIANDO PROCESSAMENTO DE INFORMAÇÕES
+VBA;18/01/2021 09:43:57;Move_Pendentes;Processando;Iniciando Processamento de Arquivos
+VBA;18/01/2021 09:43:57;Move_Pendentes;Processando;Movendo Arquivos para a pasta Pendentes
+VBA;18/01/2021 09:43:57;Move_Pendentes;Falha;5 - Argumento ou chamada de procedimento inválida
+VBA;18/01/2021 09:43:57;Move_Pendentes;Falha;13 - Tipos incompatíveis
+VBA;18/01/2021 09:43:57;Move_Pendentes;Falha;424 - O objeto é obrigatório
+VBA;18/01/2021 09:43:57;Move_Pendentes;Falha;424 - O objeto é obrigatório
+VBA;18/01/2021 09:43:57;Move_Pendentes;Falha;424 - O objeto é obrigatório
+VBA;18/01/2021 09:43:57;Move_Pendentes;Falha;424 - O objeto é obrigatório
+VBA;18/01/2021 09:43:57;Move_Pendentes;Falha;424 - O objeto é obrigatório
+VBA;18/01/2021 09:43:57;Move_Pendentes;Falha;424 - O objeto é obrigatório
+VBA;18/01/2021 09:43:57;Move_Pendentes;Falha;424 - O objeto é obrigatório
+VBA;18/01/2021 09:43:57;Move_Pendentes;Falha;92 - Loop ´For´ não inicializado
+VBA;18/01/2021 09:44:07;PROCESSA_ARQUIVOS;Processando;INICIANDO PROCESSAMENTO DE INFORMAÇÕES
+VBA;18/01/2021 09:44:07;Move_Pendentes;Processando;Iniciando Processamento de Arquivos
+VBA;18/01/2021 09:44:07;Move_Pendentes;Processando;Movendo Arquivos para a pasta Pendentes
+VBA;18/01/2021 09:44:07;Move_Pendentes;Falha;5 - Argumento ou chamada de procedimento inválida
+VBA;18/01/2021 09:44:07;Move_Pendentes;Falha;13 - Tipos incompatíveis
+VBA;18/01/2021 09:44:07;Move_Pendentes;Falha;424 - O objeto é obrigatório
+VBA;18/01/2021 09:44:07;Move_Pendentes;Falha;424 - O objeto é obrigatório
+VBA;18/01/2021 09:44:07;Move_Pendentes;Falha;424 - O objeto é obrigatório
+VBA;18/01/2021 09:44:07;Move_Pendentes;Falha;424 - O objeto é obrigatório
+VBA;18/01/2021 09:44:07;Move_Pendentes;Falha;424 - O objeto é obrigatório
+VBA;18/01/2021 09:44:07;Move_Pendentes;Falha;424 - O objeto é obrigatório
+VBA;18/01/2021 09:44:07;Move_Pendentes;Falha;424 - O objeto é obrigatório
+VBA;18/01/2021 09:44:07;Move_Pendentes;Falha;92 - Loop ´For´ não inicializado
+VBA;18/01/2021 09:44:21;PROCESSA_ARQUIVOS;Processando;INICIANDO PROCESSAMENTO DE INFORMAÇÕES
+VBA;18/01/2021 09:44:21;Move_Pendentes;Processando;Iniciando Processamento de Arquivos
+VBA;18/01/2021 09:44:22;Move_Pendentes;Processando;Movendo Arquivos para a pasta Pendentes
+VBA;18/01/2021 09:44:22;Move_Pendentes;Processando;Movendo Arquivo PASTA 2 - 18-01.xlsx
+VBA;18/01/2021 09:44:23;Processa_ARquivos;Processando;Processando arquivo [C:\PROJETOS\GOBI\COFCO\2021\pasta2\Pendentes\PASTA 2 - 18-01.xlsx]
+VBA;18/01/2021 09:44:23;IMPORTA_DADOS;Processando;INICIANDO IMPORTAÇÃO DE INFORMAÇÕES
+VBA;18/01/2021 09:44:33;FILTRA_CNPJ;Processando;INICIANDO FILTRO DE INFORMAÇÕES

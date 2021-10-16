@@ -1,0 +1,34 @@
+Tive o retorno do cliente:
+
+FeedBack/FollowUp
+
+Criar tabela para armazenar as informações abaixo:
+TBL_Followup
+StrData:
+StrStatus:
+StrTipoServico:(Orçamento/Ordem de Serviço)
+StrTipoPessoa: (Cliente/Condomínio)
+StrObsercacao:
+===========================================================================
+TBL_StatusSatisfacao:
+StrNumStatusSatisfacao:
+StrNomStatusSatisfacao:
+Exemplo:
+1 - Extremanente satisfeito
+2 - Moderadamente satisfeito
+3 - Pouco satisfeito 
+4 - Nem satisfeito/nem insatisfeito
+5 - Pouco insatisfeito
+6 - Moderadamente insatisfeito
+7 - Extremamente insatisfeito
+
+Isso terá que ser um subformulário na tela de Clientes e na tela de Condomínio;
+
+Dai terá que ter relatórios tipo listagem;
+Com os filtros:
+Por data;
+Por Status;
+Por tipo de serviço;
+Por tipo de pessoa;
+***** mostrar em todos os relatórios todos od acampos disponiveis no FollowUp
+=========================================================================================================

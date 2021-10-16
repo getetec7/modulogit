@@ -1,0 +1,100 @@
+Modulo;Data;Funcao;Status;Descricao
+VBA;31/05/2021 11:33:28;AUTOMAÇÃO RUMO;Processando;INICIANDO PROCESSAMENTO GERAL
+VBA;31/05/2021 11:33:28;PROCESSA_ARQUIVOS;Processando;INICIANDO PROCESSAMENTO DE INFORMAÇÕES
+VBA;31/05/2021 11:33:28;Move_Pendentes;Processando;Iniciando Processamento de Arquivos
+VBA;31/05/2021 11:33:28;Move_Pendentes;Processando;Movendo Arquivos para a pasta Pendentes
+VBA;31/05/2021 11:33:28;Move_Pendentes;Processando;Movendo Arquivo AJUSTAR RPA NOVA AGRI.xls
+VBA;31/05/2021 11:33:28;Processa_ARquivos;Processando;Processando arquivo [C:\PROJETOS\GOBI\COFCO\2021\Placas\7\Pendentes\AJUSTAR RPA NOVA AGRI.xls]
+VBA;31/05/2021 11:33:28;IMPORTA_DADOS;Processando;INICIANDO IMPORTAÇÃO DE INFORMAÇÕES
+VBA;31/05/2021 11:40:30;AUTOMAÇÃO RUMO;Processando;INICIANDO PROCESSAMENTO GERAL
+VBA;31/05/2021 11:40:30;PROCESSA_ARQUIVOS;Processando;INICIANDO PROCESSAMENTO DE INFORMAÇÕES
+VBA;31/05/2021 11:40:30;Move_Pendentes;Processando;Iniciando Processamento de Arquivos
+VBA;31/05/2021 11:40:30;Move_Pendentes;Processando;Movendo Arquivos para a pasta Pendentes
+VBA;31/05/2021 11:40:30;Move_Pendentes;Processando;Movendo Arquivo AJUSTAR RPA NOVA AGRI.xls
+VBA;31/05/2021 11:40:30;Processa_ARquivos;Processando;Processando arquivo [C:\PROJETOS\GOBI\COFCO\2021\Placas\7\Pendentes\AJUSTAR RPA NOVA AGRI.xls]
+VBA;31/05/2021 11:40:30;IMPORTA_DADOS;Processando;INICIANDO IMPORTAÇÃO DE INFORMAÇÕES
+VBA;31/05/2021 11:41:33;AUTOMAÇÃO RUMO;Processando;INICIANDO PROCESSAMENTO GERAL
+VBA;31/05/2021 11:41:33;PROCESSA_ARQUIVOS;Processando;INICIANDO PROCESSAMENTO DE INFORMAÇÕES
+VBA;31/05/2021 11:41:33;Move_Pendentes;Processando;Iniciando Processamento de Arquivos
+VBA;31/05/2021 11:41:33;Move_Pendentes;Processando;Movendo Arquivos para a pasta Pendentes
+VBA;31/05/2021 11:41:33;Move_Pendentes;Processando;Movendo Arquivo AJUSTAR RPA NOVA AGRI.xls
+VBA;31/05/2021 11:41:33;Processa_ARquivos;Processando;Processando arquivo [C:\PROJETOS\GOBI\COFCO\2021\Placas\7\Pendentes\AJUSTAR RPA NOVA AGRI.xls]
+VBA;31/05/2021 11:41:33;IMPORTA_DADOS;Processando;INICIANDO IMPORTAÇÃO DE INFORMAÇÕES
+VBA;31/05/2021 11:50:52;AUTOMAÇÃO RUMO;Processando;INICIANDO PROCESSAMENTO GERAL
+VBA;31/05/2021 11:50:52;PROCESSA_ARQUIVOS;Processando;INICIANDO PROCESSAMENTO DE INFORMAÇÕES
+VBA;31/05/2021 11:50:52;Move_Pendentes;Processando;Iniciando Processamento de Arquivos
+VBA;31/05/2021 11:50:52;Move_Pendentes;Processando;Movendo Arquivos para a pasta Pendentes
+VBA;31/05/2021 11:50:52;Move_Pendentes;Processando;Movendo Arquivo AJUSTAR RPA NOVA AGRI.xls
+VBA;31/05/2021 11:50:52;Processa_ARquivos;Processando;Processando arquivo [C:\PROJETOS\GOBI\COFCO\2021\Placas\7\Pendentes\AJUSTAR RPA NOVA AGRI.xls]
+VBA;31/05/2021 11:50:52;IMPORTA_DADOS;Processando;INICIANDO IMPORTAÇÃO DE INFORMAÇÕES
+VBA;31/05/2021 11:51:03;IMPORTA_DADOS;Falha;1004 - O método PasteSpecial da classe Range falhou
+VBA;31/05/2021 11:51:03;Processa_ARquivos;Sucesso;Processando arquivo [C:\PROJETOS\GOBI\COFCO\2021\Placas\7\Pendentes\AJUSTAR RPA NOVA AGRI.xls]
+VBA;31/05/2021 11:51:03;Processa_ARquivos;Processando;Processando arquivo [C:\PROJETOS\GOBI\COFCO\2021\Placas\7\Pendentes\AJUSTAR RPA NOVA AGRI.xls]
+VBA;31/05/2021 11:51:03;IMPORTA_DADOS;Processando;INICIANDO IMPORTAÇÃO DE INFORMAÇÕES
+VBA;31/05/2021 11:51:03;IMPORTA_DADOS;Falha;1004 - O método Delete da classe Range falhou
+VBA;31/05/2021 11:51:03;Processa_ARquivos;Sucesso;Processando arquivo [C:\PROJETOS\GOBI\COFCO\2021\Placas\7\Pendentes\AJUSTAR RPA NOVA AGRI.xls]
+VBA;31/05/2021 11:51:03;Processa_ARquivos;Processando;Processando arquivo [C:\PROJETOS\GOBI\COFCO\2021\Placas\7\Pendentes\AJUSTAR RPA NOVA AGRI.xls]
+VBA;31/05/2021 11:51:03;IMPORTA_DADOS;Processando;INICIANDO IMPORTAÇÃO DE INFORMAÇÕES
+VBA;31/05/2021 11:51:03;IMPORTA_DADOS;Falha;1004 - O método Delete da classe Range falhou
+VBA;31/05/2021 11:51:03;Processa_ARquivos;Sucesso;Processando arquivo [C:\PROJETOS\GOBI\COFCO\2021\Placas\7\Pendentes\AJUSTAR RPA NOVA AGRI.xls]
+VBA;31/05/2021 11:51:03;Processa_ARquivos;Processando;Processando arquivo [C:\PROJETOS\GOBI\COFCO\2021\Placas\7\Pendentes\AJUSTAR RPA NOVA AGRI.xls]
+VBA;31/05/2021 11:51:04;IMPORTA_DADOS;Processando;INICIANDO IMPORTAÇÃO DE INFORMAÇÕES
+VBA;31/05/2021 11:51:04;IMPORTA_DADOS;Falha;1004 - O método Delete da classe Range falhou
+VBA;31/05/2021 11:51:04;Processa_ARquivos;Sucesso;Processando arquivo [C:\PROJETOS\GOBI\COFCO\2021\Placas\7\Pendentes\AJUSTAR RPA NOVA AGRI.xls]
+VBA;31/05/2021 11:51:04;Processa_ARquivos;Processando;Processando arquivo [C:\PROJETOS\GOBI\COFCO\2021\Placas\7\Pendentes\AJUSTAR RPA NOVA AGRI.xls]
+VBA;31/05/2021 11:51:04;IMPORTA_DADOS;Processando;INICIANDO IMPORTAÇÃO DE INFORMAÇÕES
+VBA;31/05/2021 11:51:04;IMPORTA_DADOS;Falha;1004 - O método Delete da classe Range falhou
+VBA;31/05/2021 11:51:04;Processa_ARquivos;Sucesso;Processando arquivo [C:\PROJETOS\GOBI\COFCO\2021\Placas\7\Pendentes\AJUSTAR RPA NOVA AGRI.xls]
+VBA;31/05/2021 11:51:04;Processa_ARquivos;Processando;Processando arquivo [C:\PROJETOS\GOBI\COFCO\2021\Placas\7\Pendentes\AJUSTAR RPA NOVA AGRI.xls]
+VBA;31/05/2021 11:51:04;IMPORTA_DADOS;Processando;INICIANDO IMPORTAÇÃO DE INFORMAÇÕES
+VBA;31/05/2021 11:51:04;IMPORTA_DADOS;Falha;1004 - O método Delete da classe Range falhou
+VBA;31/05/2021 11:51:04;Processa_ARquivos;Sucesso;Processando arquivo [C:\PROJETOS\GOBI\COFCO\2021\Placas\7\Pendentes\AJUSTAR RPA NOVA AGRI.xls]
+VBA;31/05/2021 11:51:04;Processa_ARquivos;Processando;Processando arquivo [C:\PROJETOS\GOBI\COFCO\2021\Placas\7\Pendentes\AJUSTAR RPA NOVA AGRI.xls]
+VBA;31/05/2021 11:51:04;IMPORTA_DADOS;Processando;INICIANDO IMPORTAÇÃO DE INFORMAÇÕES
+VBA;31/05/2021 11:51:04;IMPORTA_DADOS;Falha;1004 - O método Delete da classe Range falhou
+VBA;31/05/2021 11:51:04;Processa_ARquivos;Sucesso;Processando arquivo [C:\PROJETOS\GOBI\COFCO\2021\Placas\7\Pendentes\AJUSTAR RPA NOVA AGRI.xls]
+VBA;31/05/2021 11:51:04;Processa_ARquivos;Processando;Processando arquivo [C:\PROJETOS\GOBI\COFCO\2021\Placas\7\Pendentes\AJUSTAR RPA NOVA AGRI.xls]
+VBA;31/05/2021 11:51:04;IMPORTA_DADOS;Processando;INICIANDO IMPORTAÇÃO DE INFORMAÇÕES
+VBA;31/05/2021 11:52:46;AUTOMAÇÃO RUMO;Processando;INICIANDO PROCESSAMENTO GERAL
+VBA;31/05/2021 11:52:46;PROCESSA_ARQUIVOS;Processando;INICIANDO PROCESSAMENTO DE INFORMAÇÕES
+VBA;31/05/2021 11:52:46;Move_Pendentes;Processando;Iniciando Processamento de Arquivos
+VBA;31/05/2021 11:52:46;Move_Pendentes;Processando;Movendo Arquivos para a pasta Pendentes
+VBA;31/05/2021 11:52:46;Move_Pendentes;Processando;Movendo Arquivo AJUSTAR RPA NOVA AGRI.xls
+VBA;31/05/2021 11:52:46;Processa_ARquivos;Processando;Processando arquivo [C:\PROJETOS\GOBI\COFCO\2021\Placas\7\Pendentes\AJUSTAR RPA NOVA AGRI.xls]
+VBA;31/05/2021 11:52:46;IMPORTA_DADOS;Processando;INICIANDO IMPORTAÇÃO DE INFORMAÇÕES
+VBA;31/05/2021 11:53:41;AUTOMAÇÃO RUMO;Processando;INICIANDO PROCESSAMENTO GERAL
+VBA;31/05/2021 11:53:41;PROCESSA_ARQUIVOS;Processando;INICIANDO PROCESSAMENTO DE INFORMAÇÕES
+VBA;31/05/2021 11:53:41;Move_Pendentes;Processando;Iniciando Processamento de Arquivos
+VBA;31/05/2021 11:53:41;Move_Pendentes;Processando;Movendo Arquivos para a pasta Pendentes
+VBA;31/05/2021 11:53:42;Move_Pendentes;Processando;Movendo Arquivo AJUSTAR RPA NOVA AGRI.xls
+VBA;31/05/2021 11:53:42;Processa_ARquivos;Processando;Processando arquivo [C:\PROJETOS\GOBI\COFCO\2021\Placas\7\Pendentes\AJUSTAR RPA NOVA AGRI.xls]
+VBA;31/05/2021 11:53:42;IMPORTA_DADOS;Processando;INICIANDO IMPORTAÇÃO DE INFORMAÇÕES
+VBA;31/05/2021 11:56:54;15-VLIEMB.Transbordo;Processando;Inicia 15-VLIEMB.Transbordo
+VBA;31/05/2021 11:56:54;Move_Pendentes;Processando;Iniciando Processamento de Arquivos
+VBA;31/05/2021 11:56:54;Move_Pendentes;Processando;Movendo Arquivos para a pasta Pendentes
+VBA;31/05/2021 11:56:54;Move_Pendentes;Processando;Movendo Arquivo AJUSTAR RPA NOVA AGRI.xls
+VBA;31/05/2021 11:56:54;15-VLIEMB.Transbordo;Processando;Inicia Tratativa de Arquivo
+VBA;31/05/2021 11:57:53;15-VLIEMB.Transbordo;Processando;Inicia 15-VLIEMB.Transbordo
+VBA;31/05/2021 11:57:53;Move_Pendentes;Processando;Iniciando Processamento de Arquivos
+VBA;31/05/2021 11:57:53;Move_Pendentes;Processando;Movendo Arquivos para a pasta Pendentes
+VBA;31/05/2021 11:57:53;Move_Pendentes;Processando;Movendo Arquivo AJUSTAR RPA NOVA AGRI.xls
+VBA;31/05/2021 11:57:53;15-VLIEMB.Transbordo;Processando;Inicia Tratativa de Arquivo
+VBA;31/05/2021 12:02:55;15-VLIEMB.Transbordo;Processando;Inicia 15-VLIEMB.Transbordo
+VBA;31/05/2021 12:02:55;Move_Pendentes;Processando;Iniciando Processamento de Arquivos
+VBA;31/05/2021 12:02:55;Move_Pendentes;Processando;Movendo Arquivos para a pasta Pendentes
+VBA;31/05/2021 12:02:55;Move_Pendentes;Processando;Movendo Arquivo AJUSTAR RPA NOVA AGRI.xls
+VBA;31/05/2021 12:02:55;15-VLIEMB.Transbordo;Processando;Inicia Tratativa de Arquivo
+VBA;31/05/2021 12:07:35;15-VLIEMB.Transbordo;Processando;Inicia Copiar
+VBA;31/05/2021 12:13:14;15-VLIEMB.Transbordo;Processando;Inicia 15-VLIEMB.Transbordo
+VBA;31/05/2021 12:13:14;Move_Pendentes;Processando;Iniciando Processamento de Arquivos
+VBA;31/05/2021 12:13:14;Move_Pendentes;Processando;Movendo Arquivos para a pasta Pendentes
+VBA;31/05/2021 12:13:14;Move_Pendentes;Processando;Movendo Arquivo AJUSTAR RPA NOVA AGRI.xls
+VBA;31/05/2021 12:13:14;15-VLIEMB.Transbordo;Processando;Inicia Tratativa de Arquivo
+VBA;31/05/2021 12:13:15;15-VLIEMB.Transbordo;Processando;Inicia Copiar
+VBA;31/05/2021 12:18:32;15-VLIEMB.Transbordo;Sucesso;Terminou Copiar
+VBA;31/05/2021 12:18:34;15-VLIEMB.Transbordo;Processando;Gravar Arquivos
+VBA;31/05/2021 12:18:39;15-VLIEMB.Transbordo;Sucesso;Terminou de Gravar Arquivos
+VBA;31/05/2021 12:18:42;15-VLIEMB.Transbordo;Processando;Movendo de Pendentes para Processados
+VBA;31/05/2021 12:18:44;15-VLIEMB.Transbordo;Sucesso;Movido de Pendentes para Processados
+VBA;31/05/2021 12:18:44;15-VLIEMB.Transbordo;Sucesso;Termina Tratativas do arquivo
+VBA;31/05/2021 12:18:44;15-VLIEMB.Transbordo;Sucesso;Termina 15-VLIEMB.Transbordo

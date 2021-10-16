@@ -1,0 +1,7 @@
+Modulo;Data;Funcao;Status;Descricao
+VBA;18/02/2021 16:51:22;PROCESSA_ARQUIVOS;Processando;INICIANDO PROCESSAMENTO DE INFORMAÇÕES
+VBA;18/02/2021 16:51:22;Move_Pendentes;Processando;Iniciando Processamento de Arquivos
+VBA;18/02/2021 16:51:22;Move_Pendentes;Processando;Movendo Arquivos para a pasta Pendentes
+VBA;18/02/2021 16:51:22;Move_Pendentes;Processando;Movendo Arquivo PASTA 3-2 - 18-02.xlsx
+VBA;18/02/2021 16:51:39;importa_dados;Processando;IMPORTANDO DADOS DO ARQUIVO [C:\PROJETOS\GOBI\COFCO\2021\PASTA03\Pendentes\PASTA 3-2 - 18-02.xlsx]
+VBA;18/02/2021 16:52:49;importa_dados;Sucesso;IMPORTANDO DADOS DO ARQUIVO [C:\PROJETOS\GOBI\COFCO\2021\PASTA03\Pendentes\PASTA 3-2 - 18-02.xlsx]
